@@ -1,0 +1,1 @@
+"""Overnight creator digest package."""
